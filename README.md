@@ -187,6 +187,5 @@ Cette étape consiste à valider le bon fonctionnement de l’ensemble du pipeli
 - chargement du modèle YOLO,
 - inférence en temps réel sur le flux vidéo.
 
-Le script `main_hello.py` permet d’effectuer un test simple de détection d’objets
-en combinant la caméra et le modèle YOLO dans un même programme.
+
 
